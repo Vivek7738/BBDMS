@@ -59,7 +59,7 @@ register a new user.
    ![Home Page](Screenshot/Homepage.png)
 
 2. **Admin Dashboard**  
-   ![Admin Dashboard](Screenshot/adminpage.png)
+   ![Admin Dashboard](Screenshot/Adminpage.png)
 
 3. **Patient Login**  
    ![Donor List](Screenshot/patient.png)
