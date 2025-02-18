@@ -61,7 +61,7 @@ register a new user.
 2. **Admin Dashboard**  
    ![Admin Dashboard](Screenshot/Adminpage.png)
 
-3. **Patient Login**  
+3. **Donor List**  
    ![Donor List](Screenshot/patient.png)
 
 ## License
