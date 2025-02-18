@@ -35,7 +35,7 @@ A web-based application developed using PHP and MySQL that allows users to donat
 4. **Set up the Database**:
     - Open `phpMyAdmin` at `http://localhost/phpmyadmin`.
     - Create a database named `bbdms`.
-    - Import the `bbdms.sql` file located in the SQL folder.
+    - Import the `bbdms.sql` file located in the database folder.
 5. **Access the Application**: Run the application at `http://localhost/bbdms`.
 
 ## Admin Login Credentials
